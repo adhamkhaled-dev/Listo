@@ -9,4 +9,5 @@ A simple program that saves integers in a vector and make some operations on the
 - Get the mean of the integers
 - Print the largest number 
 - Print the smallest number
+- Calculate the standard deviation
 
